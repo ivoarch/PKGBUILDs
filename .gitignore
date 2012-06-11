@@ -1,3 +1,11 @@
 !/*
-*src.tar.gz
+*.apk
+*.bz2
+*.gz
+*.log
+*.sig
+*.xpi
+*.xz
 
+pkg/
+src/
